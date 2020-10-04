@@ -1,0 +1,3 @@
+C:/Users/David/source/repos/AssaultCubeInternalHack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/David/source/repos/AssaultCubeInternalHack/cmake-build-debug/CMakeFiles/AssaultCubeInternalHack.dir
+C:/Users/David/source/repos/AssaultCubeInternalHack/cmake-build-debug/CMakeFiles/edit_cache.dir
